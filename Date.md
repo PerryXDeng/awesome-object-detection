@@ -1,3 +1,25 @@
+2019-08-14 Update 1 paper
+
+**Recent Advances in Deep Learning for Object Detection**
+
+- intro: From 2013 (OverFeat) to 2019 (DetNAS)
+- arXiv: <https://arxiv.org/abs/1908.03673>
+
+2019-07-24 Update 1 paper
+
+**A Survey of Deep Learning-based Object Detection**
+
+- intro：From Fast R-CNN to NAS-FPN
+
+- arXiv：<https://arxiv.org/abs/1907.09408>
+
+2019-05-17 Update 1 paper
+
+**Object Detection in 20 Years: A Survey**
+
+- intro：This work has been submitted to the IEEE TPAMI for possible publication
+- arXiv：<https://arxiv.org/abs/1905.05055>
+
 2019-04-05 Update 1 paper
 
 **Comparison Network for One-Shot Conditional Object Detection**
